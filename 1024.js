@@ -22,3 +22,8 @@ for (var i = 1; i < 10; i++) {
         console.log("".concat(i, " x ").concat(j, " = ").concat(i * j));
     }
 }
+
+
+
+// 這是一個測試註解
+
